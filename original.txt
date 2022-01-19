@@ -1,1 +1,2 @@
 Welcome to the course !
+This is comp5541 class.
